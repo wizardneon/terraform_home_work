@@ -4,7 +4,9 @@
   export AWS_ACCESS_KEY_ID=
   export AWS_SECRET_ACCESS_KEY=
   
-  To plan:   
+  Enter database password.
+ 
+ To plan:   
   terraform plan 
 
   To apply:    
